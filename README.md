@@ -1,2 +1,1 @@
-# Stepik-final
-Stepik-final
+Финальное задание для курса "Автоматизация тестирования с помощью Selenium и Python.
